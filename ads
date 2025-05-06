@@ -1,6 +1,6 @@
 {"ads":{
   
-  "ShowAds":false,
+  "ShowAds":true,
   "ClickCount":1,
    "ShowLoadingAds":true,
   "Redirect_link":"https://www.google.com",
@@ -9,10 +9,10 @@
   
 
   
-  "openadyandex":"c879b7d894984d5e",
-  "yandex_inter":"df7fd4113cfaa2de",
-  "yandex_banner":"9957e59cd46c27df",
-  "yandex_native":"dfb4d92336784280",
+  "openadyandex":"R-M-15387565-4",
+  "yandex_inter":"R-M-15387565-3",
+  "yandex_banner":"R-M-15387565-1",
+  "yandex_native":"R-M-15387565-2",
   
   
   "MaxBanner": "7c217530b37da6db",
